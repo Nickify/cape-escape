@@ -215,7 +215,7 @@ input[type=text]:focus, input[type=password]:focus {
 
 
 input[type=text]:valid, input[type=password]:valid {
-    border-bottom: 2px solid #f50856;
+    border-bottom: 2px solid #444b64;
 } /* This is a quick fix to get an authorization / valid entry state without using JS */
 
 input[type=submit] {
