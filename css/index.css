@@ -221,7 +221,7 @@ input[type=text]:valid, input[type=password]:valid {
 input[type=submit] {
     width: 200px;
     background-color: white;
-    color: #b3d4fc;
+    color: #292a2c;
     padding: 14px 20px;
     margin: 8px auto 30px;
     border: none;
