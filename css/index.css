@@ -221,7 +221,7 @@ input[type=text]:valid, input[type=password]:valid {
 input[type=submit] {
     width: 200px;
     background-color: white;
-    color: #292a2c;
+    color: #b3d4fc;
     padding: 14px 20px;
     margin: 8px auto 30px;
     border: none;
@@ -241,7 +241,7 @@ input[type=submit] {
 
 input[type=submit]:hover {
     background-color: #dddddd;
-    color: #bb0642;
+    color: #292a2c;
 }
 
 
